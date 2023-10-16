@@ -809,6 +809,7 @@ input:focus {
 }
 
 .menu .menu-main {
+  margin-top: 40px;
   transition-delay: .4s;
 }
 
@@ -1852,7 +1853,7 @@ a.service-item {
 }
 
 .letter-g .text-texture {
-  background-image: url("../img/bg-letter-g.jpg");
+  background-image: url("../img/g-design.jpg");
   background-position: 50% 30%;
 }
 
